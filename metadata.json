@@ -1,0 +1,6 @@
+{
+  "name": "GoFlow — Flowchart to UI & Influencer Analysis Prototype",
+  "description": "Konversi flowchart analisis influencer GoFlow menjadi tampilan antarmuka modern, low-fidelity wireframe, dan prototipe interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
